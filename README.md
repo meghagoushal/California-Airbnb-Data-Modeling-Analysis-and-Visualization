@@ -1,4 +1,4 @@
-# California-Airbnb-Data-Modeling-Analysis-and-Visualization
+# California-Airbnb: Data-Modeling-Analysis-and-Visualization
 
 In this project we are using Amazon Web Service(AWS) to perform ETL and data visualization.
 
